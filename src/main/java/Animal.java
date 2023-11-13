@@ -7,6 +7,8 @@ public abstract class Animal {
 
     public abstract boolean eat(String fodType);
 
+    public abstract void showMood();
+
 
 
 }

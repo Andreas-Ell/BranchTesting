@@ -12,6 +12,10 @@ public class Main {
         cat.eat("fisk");
 
 
+        dog.showMood();
+        cat.showMood();
+
+
 
 
 

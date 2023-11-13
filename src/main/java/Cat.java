@@ -10,4 +10,9 @@ public class Cat extends Animal {
 
     }
 
+    public void showMood() {
+        System.out.println("hvæser");
+
+    }
+
 }

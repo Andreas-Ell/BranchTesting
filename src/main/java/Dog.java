@@ -11,4 +11,9 @@ public class Dog extends Animal {
 
     }
 
+    public void showMood() {
+        System.out.println("knurre");
+    }
+
+
 }
